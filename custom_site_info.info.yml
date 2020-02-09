@@ -1,0 +1,6 @@
+name: Custom Site Info
+type: module
+description: Extend Site Information form .
+package: Custom
+core: 8.x
+
